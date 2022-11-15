@@ -28,3 +28,4 @@ You can use the naming in line 16 of the code by adapting it for your own pictur
 
 ## Reference
 Please cite this article: "Edge Detection Based Autofocus Algorithm to Detect Accurate Camera Working Distance" Poyraz A.G., Kacmaz M., ISITES'2022
+https://doi.org/10.33793/acperpro.05.03.7422
